@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: br.edu.ifrn.pds.atividade.test.banco.BancoTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.027 s <<< FAILURE! - in br.edu.ifrn.pds.atividade.test.banco.BancoTest
+deveriaRetornarEmprestimoValidoComValorAcimaDe8000  Time elapsed: 0.006 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <br.edu.ifrn.pds.atividade.banco.Emprestimo@2928854b> but was: <br.edu.ifrn.pds.atividade.banco.Emprestimo@27ae2fd0>
+	at br.edu.ifrn.pds.atividade.test.banco.BancoTest.deveriaRetornarEmprestimoValidoComValorAcimaDe8000(BancoTest.java:27)
+
